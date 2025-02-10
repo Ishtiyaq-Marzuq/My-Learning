@@ -5,7 +5,6 @@
 
 - **Notes**: Detailed notes on various topics I'm learning.
 - **Code Snippets**: Practical examples and code snippets to reinforce my understanding.
-- **Resources**: Links to articles, books, videos, and other resources that I find helpful.
 
 ## 🚀 How to Use This Repository
 
@@ -19,17 +18,13 @@ Feel free to explore the content! If you find something useful or have suggestio
 
 I believe in continuous learning and sharing knowledge. By documenting my journey, I hope to not only solidify my own understanding but also help others who might be on a similar path.
 
-## 📅 Progress Tracking
-
-I aim to update this repository regularly. You can track my progress by checking the commit history or following the updates in the [CHANGELOG.md](CHANGELOG.md) file.
-
 ## 🤝 Contributing
 
 While this is primarily a personal repository, I welcome any constructive feedback, suggestions, or contributions. If you'd like to contribute, please open an issue or submit a pull request.
 
 ## 📧 Contact
 
-If you have any questions or just want to connect, feel free to reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+If you have any questions or just want to connect, feel free to reach out to me at [ishtiyaq.marzuq26@gmail.com] or connect with me on [www.linkedin.com/in/ishtiyaq-marzuq]
 
 ---
 
@@ -38,7 +33,7 @@ If you have any questions or just want to connect, feel free to reach out to me 
 
 # My Learning Journey
 
-Welcome to my learning repository! Here, I share my regular learnings, notes, and resources as I progress through my journey in [your field of interest, e.g., software development, data science, etc.]. This repository serves as a personal knowledge base and a way to track my growth over time.
+Welcome to my learning repository! Here, I share my regular learnings, notes, and resources as I progress through my journey in Data Science. This repository serves as a personal knowledge base and a way to track my growth over time.
 
 ## 📂 Repository Structure
 
